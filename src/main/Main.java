@@ -45,7 +45,7 @@ public class Main {
 		System.out.println(order);
 		
 	}
-
+ 
 	private static String imputDados(String texto) {
 		System.out.println("informe o " + texto + " :");
 		return sc.nextLine();
